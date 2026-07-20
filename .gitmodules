@@ -1,0 +1,15 @@
+[submodule "Shamir-SS-Rust"]
+	path = Shamir-SS-Rust
+	url = https://github.com/ishanim1/Shamir-SS-CURIS.git
+[submodule "verus-boogie"]
+	path = verus-boogie
+	url = https://github.com/ishanim1/verus-boogie.git
+[submodule "Strata"]
+	path = Strata
+	url = https://github.com/strata-org/Strata.git
+[submodule "Strata-Boole"]
+	path = Strata-Boole
+	url = https://github.com/kondylidou/Strata-Boole.git
+[submodule "verus"]
+	path = verus
+	url = https://github.com/ccodel/verus.git
