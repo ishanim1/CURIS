@@ -9,7 +9,7 @@
 	url = https://github.com/strata-org/Strata.git
 [submodule "Strata-Boole"]
 	path = Strata-Boole
-	url = https://github.com/kondylidou/Strata-Boole.git
+	url = https://github.com/ishanim1/Strata-Boole.git
 [submodule "verus"]
 	path = verus
 	url = https://github.com/ccodel/verus.git
